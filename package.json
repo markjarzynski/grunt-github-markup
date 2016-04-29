@@ -1,7 +1,7 @@
 {
   "name": "grunt-github-markup",
   "description": "Run github-markup",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/markjarzynski/grunt-github-markup",
   "author": {
     "name": "Mark Jarzynski",
